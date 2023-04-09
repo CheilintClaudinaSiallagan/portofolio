@@ -3,12 +3,6 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
 
 ## About me
 Students majoring in informatics who are taking their 6th semester at the Del Institute of Technology who are always expanding their experience and knowledge. Knowledgeable with interest in technology, such as coding, design and testing. Very enthusiastic about learning new things, self-motivated to pursue goals, adaptable both individually and as a team. I have the ability to test and ensure that the result software is of high quality by suggesting specific quality practices that vendors should follow and including quality mandates as part of any contracts with external vendors.
