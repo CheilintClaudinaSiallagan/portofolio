@@ -32,7 +32,10 @@ be able to work effectively in a team environment and collaborate with developer
 ## Tools
 
 __Katalon__
-  *Created and maintained test cases, test suites, and test data using Katalon Studio
+ Created and maintained test cases, test suites, and test data using Katalon Studio
+  
+__selenium__
+Use Selenium WebDriver to develop and run test scripts for web applications
   
   
 
